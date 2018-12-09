@@ -1,4 +1,4 @@
-var Letter = require('./Letter');
+var Letter = require('./letters');
 
 
 console.log();
